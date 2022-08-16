@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varun-Babu
-- 👀 I Build websites also teach beginners to code
+- 👀 I Build websites plus teach beginners to code
 - 📫 Reach to me on linkedin @Varun Babu
 
 <!---
