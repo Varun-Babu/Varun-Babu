@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Varun-Babu
 - 👀 I Build websites plus teach beginners to code
+- ✨ Java, C#, MSSQL, mysql, Angular, SpringBoot, .NET core
 - 📫 Reach to me on linkedin @Varun Babu
 
 <!---
